@@ -88,7 +88,7 @@ The executable will be created in the `dist/` folder.
 If you use this software in a research article, please cite it as:
 
 > Patiño-Chávez, A. R. (2025). *FractalApp: A Python Interface for Sierpiński-Based Fractal Analysis of Time-Series Data*. GitHub Repository.  
-> URL: https://github.com/emafriki/fractal-HRV-Analayzer
+> URL: https://github.com/emafriki/fractal3D-HRV-Analayzer
 
 **If your article is published**, update the citation to the final journal format.
 
